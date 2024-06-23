@@ -1,0 +1,12 @@
+[
+  {
+    "_JSON_FILE": "SeedData/personalContacts.json",
+    "Birthday": "2005-11-01T00:00:00",
+    "Relation": "Amigo",
+    "CivilStatus": "Soltero",
+    "Name": "Jairo Mateo",
+    "Phone": 89568426,
+    "Address": "Barrio Santa Teresa",
+    "Email": "jairomateo56@gmail.com"
+  }
+]
